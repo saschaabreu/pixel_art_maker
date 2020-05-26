@@ -1,4 +1,4 @@
-# pixel_art_maker
+# Pixel Art Maker
 
 ## About the project
 
@@ -7,5 +7,8 @@ A single-page web app that allows users to draw pixel art on a customizable canv
 
 ### Built with
 
+Using only HTML, CSS and JavaScript (no other libraries).
+
 ### Getting started
 
+Simply clone the repository and open the `index.html` file in your browser! *(Safari not supported)*
