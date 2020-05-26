@@ -11,4 +11,4 @@ Using only HTML, CSS and JavaScript (no other libraries).
 
 ### Getting started
 
-Simply clone the repository and open the `index.html` file in your browser! *(Safari not supported)*
+Simply clone the repository and open the `index.html` file in your browser! 
